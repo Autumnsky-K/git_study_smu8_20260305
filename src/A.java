@@ -4,4 +4,5 @@ public class A {
     public A(int a) {
         this.a = a;
     }
+    public void test1(){}
 }
