@@ -6,6 +6,11 @@ public class Main {
         System.out.printf("a+b=%d", a+b);
     }
 
+
+    public void b() {
+        System.out.printf("기능 b 추가 구현");
+    }
+
     public static void main(String[] args) {
         System.out.println("test");
         System.out.println("test");
